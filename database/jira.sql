@@ -251,17 +251,17 @@ VALUES (
         'Máy tính xách tay Apple MacBook Pro MR9R2',
         '1808315',
         '- CPU: Core i5 (2.3 GHz)
-- Màn hình: 13.3"" (2560 x 1600), không cảm ứng
-- RAM: 8GB LPDDR3 2133MHz
-- Đồ họa: Intel Iris Plus Graphics 650
-- Lưu trữ: 512GB SSD
-- Hệ điều hành: macOS
-- Pin: Pin liền',
+        - Màn hình: 13.3"" (2560 x 1600), không cảm ứng
+        - RAM: 8GB LPDDR3 2133MHz
+        - Đồ họa: Intel Iris Plus Graphics 650
+        - Lưu trữ: 512GB SSD
+        - Hệ điều hành: macOS
+        - Pin: Pin liền',
         49890000,
         2100000,
         10,
         '2022-01-01',
-        8,
+        12,
         4,
         'Máy tính xách tay',
         'APPLE'
